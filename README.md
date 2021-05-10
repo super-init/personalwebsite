@@ -1,2 +1,5 @@
-# personalwebsite
-一个个人网站
+---
+home: true
+heroImage: /icon.jpg
+heroText: null
+---
